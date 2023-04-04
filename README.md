@@ -17,7 +17,7 @@ N/A
 License
 MIT License
 
-Link to Live Code: 
+Link to Live Code: https://blossomswilts.github.io/Semantic-HTML-Challenge/
 
 
 
