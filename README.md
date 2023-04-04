@@ -1,3 +1,40 @@
+
+
+Description
+Refactoring existing code. 
+Given starter code from week 1 of bootcamp, there was development in creating a semantic version of the requested code, which has basic Divs to section off the code.
+In creating a semantic html structure, there was also alt tags added for all of the images, and an added descriptive Title element. 
+
+Installation
+N/A
+
+Usage
+To work on creating a more semantically structured HTML document. 
+
+Credits
+N/A
+
+License
+MIT License
+
+Link to Live Code: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
